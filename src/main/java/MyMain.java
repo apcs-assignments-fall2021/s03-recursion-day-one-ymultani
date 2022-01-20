@@ -3,7 +3,7 @@ public class MyMain {
     // This uses recursion to calculate the factorial method
     // factorial(5) = 5 * 4 * 3 * 2 * 1 = 120
     public static int factorial(int x) {
-        // Base case
+
         if (x == 1) {
             return 1;
         }
